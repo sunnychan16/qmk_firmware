@@ -13,8 +13,6 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-
-// qmk compile -kb helix/rev3_5rows -km sunny
 #include QMK_KEYBOARD_H
 
 

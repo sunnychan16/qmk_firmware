@@ -1,3 +1,8 @@
+/Users/sunny/qmk_firmware/keyboards/helix/rev3_5rows/keymaps/sunny
+qmk compile -kb helix/rev3_5rows -km sunny
+https://jhelvy.shinyapps.io/qmkjsonconverter/
+
+
 # The default keymap for Helix rev3 5rows
 
 ### Qwerty Layer (Base)
